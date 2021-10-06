@@ -78,6 +78,8 @@ class rvrep:
         
         if(object_type=="shape"):
             return shape(rv=self,shape_name=object_name)
+        elif(object_type=="joint"):
+            return joint(rv=self,joint_name=object_name)
 
 
 
