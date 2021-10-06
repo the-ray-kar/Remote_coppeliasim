@@ -25,6 +25,12 @@ link = rv.get_handle("shape","link0") #get object handle
 
 pos = print(link.get_position())
 
+joint = rv.get_handle("joint","revolute_1") #get joint
+
+angle = 0.0 # in_rad
+
+joint.set_position(angle)
+
 rv.stop_sim() #stop simulation
 
 rv.stop() #stop the connection.
