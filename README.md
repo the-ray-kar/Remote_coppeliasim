@@ -12,7 +12,7 @@ Installation:
 
 
 **Usage**<br/>
-Open your scene in coppeliasim,<br/>
+While keeping the scene which you want to control, you can use the following methods,<br/>
 ```python
 from Remote_coppeliasim.Rvrep import rvrep
 
