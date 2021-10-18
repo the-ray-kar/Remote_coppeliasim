@@ -32,7 +32,7 @@ joint.set_position(angle)
 rv.stop_sim() #stop simulation
 rv.stop() #stop the connection.
 ```
-## Example of controlling a manipulator to draw a circle
+### Example of controlling a manipulator to draw a circle
 For more, see examples folder
 ```python
 from Remote_coppeliasim.Rvrep import rvrep
