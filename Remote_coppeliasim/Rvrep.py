@@ -1,5 +1,5 @@
 try:
-    import sim
+    from Remote_coppeliasim import sim
 except:
     print ('--------------------------------------------------------------')
     print ('"sim.py" could not be imported. This means very probably that')
