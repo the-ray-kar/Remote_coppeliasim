@@ -13,6 +13,7 @@ Installation:
 
 **Usage**<br/>
 Open the scene (.ttt file) in coppeliaSim which you want to control, and then you can use the following methods,<br/>
+**Note**: The folder Remote_coppeliasim should be present before opening any scene in order to load the bindings.
 ```python
 from Remote_coppeliasim.Rvrep import rvrep
 
