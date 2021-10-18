@@ -7,11 +7,12 @@ Linux users can use pyrep by Stephen James https://github.com/stepjam/PyRep  , h
 
 Installation:
 1) Copy paste the folder Remote_coppeliasim in your script folder.
-2) You can also add it to path for importing it from anywhere
-Then,<br/>
-Open your scene in coppeliasim,<br/>
+2) You can also add it to path for importing it from anywhere<br/>
+
+
 
 **Usage**
+Open your scene in coppeliasim,<br/>
 ```python
 from Remote_coppeliasim.Rvrep import rvrep
 
