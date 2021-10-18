@@ -12,7 +12,7 @@ Installation:
 
 
 **Usage**<br/>
-Open the scene (.ttt file) in coppeliaSim which you want to control, you can use the following methods,<br/>
+Open the scene (.ttt file) in coppeliaSim which you want to control, and then you can use the following methods,<br/>
 ```python
 from Remote_coppeliasim.Rvrep import rvrep
 
