@@ -1,4 +1,6 @@
 # Remote_coppeliasim
+Since coppeliasim has got python support now, this is not needed.
+
 A Wrapper for remote api for coppelias sim in python.
 
 This module wraps remote api of coppeliaSim for python as object implementation.
